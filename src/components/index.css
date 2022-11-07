@@ -1,0 +1,205 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  padding-left: 33px;
+  padding-right: 33px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-height: 100vh;
+}
+.app-logo {
+  height: 55px;
+  width: 160px;
+}
+.container1 {
+  padding: 30px;
+  background-color: #5763a5;
+  border-radius: 7px;
+  margin-top: 18px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 640px;
+  max-height: 340px;
+}
+.passwordDetails-container {
+  background-color: #454f84;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-radius: 7px;
+  margin-right: 32px;
+}
+.title {
+  color: #f8fafc;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.website-container {
+  background-color: #f8fafc;
+  border-radius: 3px;
+  height: 33px;
+  width: 220px;
+  display: flex;
+  padding-left: 8px;
+  margin-bottom: 14px;
+  margin-top: 15px;
+}
+.username-container {
+  background-color: #f8fafc;
+  border-radius: 3px;
+  height: 33px;
+  width: 220px;
+  display: flex;
+  padding-left: 8px;
+  margin-bottom: 14px;
+}
+.password-container {
+  background-color: #f8fafc;
+  border-radius: 3px;
+  height: 33px;
+  width: 220px;
+  display: flex;
+  padding-left: 8px;
+  margin-bottom: 14px;
+}
+.logo {
+  height: 16px;
+  width: 16px;
+  align-self: Center;
+}
+.input-bar {
+  height: 33px;
+  width: 199px;
+  outline: none;
+  margin-left: 8px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-style: none;
+  border-left: solid 1px #b6c3ca;
+  padding-left: 6px;
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.add-button {
+  background-color: #0b69ff;
+  border-style: none;
+  border-radius: 2px;
+  height: 25px;
+  width: 55px;
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-left: 165px;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
+.container2 {
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #5763a5;
+  border-radius: 7px;
+  margin-top: 16px;
+  max-width: 640px;
+  min-height: 300px;
+  padding-bottom: 14px;
+}
+.passwords-display-container {
+  display: flex;
+}
+.heading {
+  color: #f8fafc;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.passwords-count {
+  border: solid 1px #b6c3ca;
+  border-radius: 8px;
+  height: 13px;
+  width: 23px;
+  align-self: center;
+  font-size: 9px;
+  color: #f8fafc;
+  margin-left: 8px;
+  text-align: center;
+  font-weight: 600;
+}
+.search-container {
+  background-color: #f8fafc;
+  height: 28px;
+  width: 200px;
+  display: flex;
+  border-radius: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+  align-self: center;
+  margin-left: auto;
+}
+.search-icon {
+  height: 18px;
+  width: 18px;
+  align-self: center;
+}
+.search-bar {
+  height: 28px;
+  width: 188px;
+  outline: none;
+  margin-left: 8px;
+  border-style: none;
+  border-left: solid 1px #b6c3ca;
+  padding-left: 6px;
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 450;
+  font-family: 'Roboto';
+}
+.line {
+  border-top: solid 1px #7683cb;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+}
+.details-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+.image2 {
+  height: 200px;
+  width: 230px;
+}
+.logo-container {
+  margin-left: 160px;
+}
+.password {
+  color: #f8fafc;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  padding-left: 59px;
+}
+.checkbox-container {
+  justify-content: flex-end;
+  display: flex;
+  margin-bottom: 18px;
+}
+.text {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 11px;
+  align-self: center;
+  padding-left: 2px;
+}
+.stars-logo {
+  height: 10px;
+  width: 90px;
+}
