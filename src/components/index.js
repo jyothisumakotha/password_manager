@@ -67,7 +67,7 @@ class PasswordManager extends Component {
     if (event.target.value.length !== 0) {
       const {usersList} = this.state
       const resultantList = usersList.filter(eachUser =>
-        eachUser.website.includes(event.target.value),
+        eachUser.website.includes(event.target.value.toLowerCase()),
       )
       this.setState({
         usersList: resultantList,
